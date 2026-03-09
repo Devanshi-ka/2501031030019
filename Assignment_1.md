@@ -7,3 +7,5 @@
 <img width="1366" height="2822" alt="blogPage" src="https://github.com/user-attachments/assets/6c16d1a9-ced9-49d6-80b4-c131e51bf141" />
 <img width="1366" height="1616" alt="dashboardPage" src="https://github.com/user-attachments/assets/c72a33d8-3abc-4ae4-9fb6-e3c9b105fe1c" />
 <img width="1366" height="2158" alt="contactPage" src="https://github.com/user-attachments/assets/8c242634-8ddd-4e39-9041-2895d8602ed8" />
+
+[Assignment1.docx](https://github.com/user-attachments/files/25837293/Assignment1.docx)
